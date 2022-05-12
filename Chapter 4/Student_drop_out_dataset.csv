@@ -1,0 +1,322 @@
+,Student ID,Student Name,Library,Resources,Finance,Scholarships,Academic Date,Study Time,Team,GPA,test,assignment,graduated
+0,1324,Justin Dominguez,Poor,Online,Paid,No,2021-02-01,Poor,Tier 3,2.04,10.1,13.5,Graduated
+1,1325,Kelly Riggs,Excellent,Offline,Paid,No,2022-04-11,Poor,Tier 3,3.67,7.2,7.1,Graduated
+2,1326,Ana Barron,Poor,Hybrid,Paid,No,2020-12-07,Average,Tier 3,2.26,11.3,10.5,Graduated
+3,1327,Samantha Wright,Poor,Offline,Paid,No,2019-08-07,Poor,Tier 2,4.07,13.7,9.7,Graduated
+4,1328,Ryan Taylor,Good,Online,Paid,No,2022-05-04,Excellent,Tier 2,2.73,5.5,12.3,Graduated
+5,1329,Bob Jackson,Good,Offline,Paid,Yes,2020-02-09,Average,Tier 2,1.04,12.2,12.0,Drop out
+6,1330,Karen Gamble,Excellent,Online,Paid,No,2019-12-05,Average,Tier 1,3.91,11.6,8.6,Graduated
+7,1331,Kathy Smith,Good,Offline,Paid,No,2021-10-10,Poor,Tier 3,1.58,9.5,12.4,Graduated
+8,1332,Makayla Porter DDS,Poor,Hybrid,Paid,No,2020-04-12,Good,Tier 1,4.2,10.2,11.5,Graduated
+9,1333,Holly Klein,Excellent,Hybrid,Paid,No,2020-06-14,Excellent,Tier 2,2.19,6.0,13.5,Graduated
+10,1334,Melissa Oliver,Poor,Offline,Paid,No,2021-10-14,Average,Tier 1,1.26,11.9,12.7,Drop out
+11,1335,Sue Meyers,Excellent,Online,Paid,No,2021-07-26,Average,Tier 2,4.58,12.9,13.9,Graduated
+12,1336,Daniel Irwin,Average,Offline,Unpaid,No,2021-04-27,Average,Tier 1,2.27,11.3,13.3,Graduated
+13,1337,Thomas Shields,Good,Offline,Paid,Yes,2020-10-27,Poor,Tier 1,1.91,9.2,6.5,Drop out
+14,1338,Bob Adams,Good,Hybrid,Paid,Yes,2021-12-31,Average,Tier 2,2.56,6.7,8.2,Drop out
+15,1339,Erin Wood,Good,Online,Unpaid,No,2019-05-26,Average,Tier 1,2.17,6.1,5.7,Drop out
+16,1340,Taylor Johnson,Good,Offline,Paid,No,2021-11-26,Poor,Tier 2,1.76,13.1,8.1,Graduated
+17,1341,Michele Hansen,Average,Online,Unpaid,No,2020-08-16,Average,Tier 3,4.64,12.7,8.7,Graduated
+18,1342,Melissa Wilson,Good,Offline,Paid,No,2020-06-25,Average,Tier 1,2.1,12.4,7.5,Graduated
+19,1343,Danielle Holt,Good,Hybrid,Unpaid,No,2022-03-17,Average,Tier 2,3.29,6.7,12.2,Graduated
+20,1344,Warren Jackson,Average,Offline,Paid,No,2020-03-21,Excellent,Tier 2,3.95,5.8,7.3,Graduated
+21,1345,Christopher Williamson,Average,Hybrid,Paid,No,2019-07-12,Poor,Tier 1,3.8,9.2,5.4,Graduated
+22,1346,Marissa Hood,Poor,Offline,Paid,No,2019-09-28,Average,Tier 2,2.59,14.9,11.2,Graduated
+23,1347,Scott Ibarra,Poor,Offline,Paid,No,2019-08-19,Excellent,Tier 1,4.96,13.8,9.9,Graduated
+24,1348,Natasha Mullins,Excellent,Offline,Paid,No,2021-07-31,Poor,Tier 2,3.41,11.7,10.5,Graduated
+25,1349,Michael White,Average,Online,Unpaid,No,2021-11-23,Poor,Tier 1,1.26,5.0,11.9,Drop out
+26,1350,Amy Booth,Good,Hybrid,Paid,No,2021-06-02,Excellent,Tier 3,3.54,5.3,10.6,Graduated
+27,1351,Sydney Cook,Excellent,Online,Paid,No,2021-04-29,Average,Tier 1,1.79,9.5,5.1,Drop out
+28,1352,Sean Dyer,Good,Hybrid,Paid,No,2021-05-08,Average,Tier 1,4.07,12.0,10.9,Graduated
+29,1353,Heather Ayers,Average,Online,Paid,No,2019-06-13,Poor,Tier 2,2.7,5.2,13.1,Graduated
+30,1354,Julie Yu,Excellent,Offline,Paid,No,2019-12-21,Poor,Tier 3,1.97,14.3,6.9,Graduated
+31,1355,Cheryl Thomas,Poor,Online,Paid,No,2020-12-12,Poor,Tier 3,4.27,7.0,13.0,Graduated
+32,1356,Shannon Williams,Poor,Online,Paid,No,2019-12-06,Poor,Tier 1,1.66,12.1,14.4,Graduated
+33,1357,David Martin,Poor,Offline,Paid,No,2021-05-28,Excellent,Tier 2,4.0,10.1,6.8,Graduated
+34,1358,Mary Bates,Good,Online,Paid,Yes,2022-04-03,Average,Tier 3,4.15,5.3,7.3,Graduated
+35,1359,Dustin Blair,Excellent,Hybrid,Paid,No,2020-05-23,Average,Tier 3,1.63,7.9,5.9,Drop out
+36,1360,Joe Smith,Good,Hybrid,Paid,No,2021-08-13,Average,Tier 1,4.44,7.7,10.6,Graduated
+37,1361,John Park,Poor,Hybrid,Unpaid,No,2020-10-29,Excellent,Tier 3,2.47,14.8,6.9,Graduated
+38,1362,Brian Lang,Excellent,Hybrid,Paid,No,2020-03-14,Excellent,Tier 3,1.25,8.0,6.8,Drop out
+39,1363,Shane Tran,Poor,Online,Paid,No,2021-11-03,Average,Tier 1,3.63,6.7,12.2,Graduated
+40,1364,John Chandler,Excellent,Hybrid,Unpaid,No,2019-10-09,Average,Tier 1,4.77,7.0,8.2,Graduated
+41,1365,Kristina Guzman,Poor,Hybrid,Paid,No,2021-05-14,Poor,Tier 1,1.83,14.9,7.7,Graduated
+42,1366,Mr. David Cohen MD,Excellent,Online,Paid,Yes,2020-10-14,Good,Tier 2,4.25,7.8,5.9,Graduated
+43,1367,Aaron Osborn,Excellent,Offline,Paid,Yes,2020-12-06,Poor,Tier 2,4.1,12.5,9.5,Graduated
+44,1368,Dustin Cervantes,Good,Offline,Paid,No,2020-02-10,Good,Tier 2,1.35,13.8,5.8,Drop out
+45,1369,Robert Freeman,Good,Online,Paid,No,2019-06-13,Average,Tier 3,1.95,14.0,7.3,Graduated
+46,1370,Anthony Rodriguez,Average,Online,Paid,No,2020-02-11,Average,Tier 2,4.54,7.2,5.7,Graduated
+47,1371,Felicia Nelson,Excellent,Offline,Unpaid,No,2020-01-08,Excellent,Tier 1,2.4,7.8,7.8,Graduated
+48,1372,Mark Sandoval,Excellent,Hybrid,Paid,No,2021-01-18,Poor,Tier 1,2.85,10.5,11.0,Graduated
+49,1373,Nicholas Harper,Excellent,Hybrid,Paid,No,2019-12-04,Poor,Tier 1,3.07,5.7,7.2,Graduated
+50,1374,Mark Sims,Good,Online,Paid,No,2021-10-18,Poor,Tier 1,1.52,7.7,5.5,Drop out
+51,1375,James Clark,Excellent,Offline,Unpaid,No,2022-05-01,Average,Tier 3,4.24,8.1,7.9,Graduated
+52,1376,Christopher Leblanc,Average,Online,Paid,Yes,2021-12-21,Excellent,Tier 2,2.57,14.6,5.4,Graduated
+53,1377,Carol Brown,Average,Offline,Paid,No,2020-04-13,Poor,Tier 3,1.25,11.1,14.1,Graduated
+54,1378,Jason Peters,Average,Hybrid,Paid,No,2019-10-20,Average,Tier 2,2.06,9.4,14.8,Graduated
+55,1379,Michael West,Average,Online,Paid,No,2021-06-02,Excellent,Tier 1,4.59,5.2,9.0,Graduated
+56,1380,Henry Jones,Poor,Hybrid,Paid,No,2020-02-24,Average,Tier 2,4.09,10.3,8.4,Graduated
+57,1381,Rachel Copeland,Good,Offline,Paid,No,2020-01-28,Excellent,Tier 1,1.56,9.2,12.5,Graduated
+58,1382,Anne Park,Excellent,Hybrid,Paid,No,2020-05-02,Poor,Tier 1,3.2,10.1,14.5,Graduated
+59,1383,Whitney Rodriguez,Excellent,Hybrid,Paid,No,2021-03-03,Poor,Tier 2,4.42,9.1,10.9,Graduated
+60,1384,Barbara Jones,Excellent,Offline,Unpaid,No,2021-10-19,Poor,Tier 1,4.11,8.7,11.3,Graduated
+61,1385,Regina Blair,Average,Hybrid,Paid,No,2021-10-19,Poor,Tier 2,2.66,11.3,12.6,Graduated
+62,1386,Dustin Nguyen,Excellent,Hybrid,Paid,No,2020-10-12,Poor,Tier 3,1.23,14.3,10.8,Graduated
+63,1387,Daniel Terry,Excellent,Online,Paid,No,2021-02-26,Good,Tier 2,3.63,12.7,5.4,Graduated
+64,1388,Tracy Berger,Good,Hybrid,Paid,No,2021-10-20,Poor,Tier 1,1.73,9.9,9.1,Drop out
+65,1389,Christine Griffith,Good,Offline,Paid,No,2019-06-24,Average,Tier 3,4.68,13.6,5.1,Graduated
+66,1390,Joseph Jones,Good,Online,Paid,No,2021-02-17,Poor,Tier 3,4.54,7.0,5.6,Graduated
+67,1391,Maria Williams,Excellent,Hybrid,Paid,No,2021-08-30,Poor,Tier 3,3.14,11.9,14.0,Graduated
+68,1392,Gregory Miller,Poor,Online,Unpaid,No,2020-03-08,Poor,Tier 3,1.04,14.3,11.5,Graduated
+69,1393,Antonio Carpenter,Poor,Offline,Paid,No,2022-02-26,Poor,Tier 3,2.84,12.7,10.6,Graduated
+70,1394,Becky Young,Good,Hybrid,Paid,No,2021-04-23,Poor,Tier 2,2.01,5.9,10.7,Drop out
+71,1395,Jasmine Mora,Average,Offline,Paid,No,2019-06-22,Average,Tier 2,4.21,11.1,14.9,Graduated
+72,1396,Thomas Ramos,Average,Hybrid,Paid,No,2019-10-06,Poor,Tier 2,2.37,9.4,11.5,Graduated
+73,1397,Erin Gay,Good,Offline,Paid,No,2021-06-12,Excellent,Tier 1,3.08,9.4,5.1,Graduated
+74,1398,Charles Mcclain,Average,Online,Paid,No,2020-08-14,Poor,Tier 1,1.09,14.8,12.0,Drop out
+75,1399,Linda Henson,Excellent,Online,Paid,No,2019-08-06,Poor,Tier 3,2.34,11.0,5.5,Graduated
+76,1400,Yolanda Moon,Good,Offline,Paid,No,2021-12-16,Poor,Tier 3,1.21,12.4,5.2,Drop out
+77,1401,Rachel Murray,Poor,Offline,Unpaid,No,2020-10-09,Average,Tier 1,2.15,5.6,8.3,Drop out
+78,1402,Kevin Roberts,Average,Hybrid,Paid,No,2020-05-28,Average,Tier 2,4.22,13.0,6.3,Graduated
+79,1403,David Baxter,Good,Hybrid,Paid,No,2020-04-30,Excellent,Tier 2,1.64,5.8,7.2,Drop out
+80,1404,Sandra Scott,Excellent,Online,Paid,No,2020-06-18,Good,Tier 1,4.98,8.1,13.7,Graduated
+81,1405,Robert West,Excellent,Offline,Paid,Yes,2020-03-24,Average,Tier 3,3.48,12.6,10.6,Graduated
+82,1406,James Graham,Good,Offline,Paid,No,2021-11-29,Average,Tier 1,1.51,11.2,10.4,Drop out
+83,1407,John Sloan,Average,Hybrid,Unpaid,No,2020-06-29,Excellent,Tier 3,3.44,5.2,5.6,Graduated
+84,1408,Alex Galvan,Poor,Online,Paid,No,2019-09-20,Average,Tier 3,1.38,13.5,10.6,Graduated
+85,1409,Brian Holt,Good,Online,Unpaid,No,2019-11-11,Average,Tier 3,4.43,10.7,5.1,Graduated
+86,1410,Melissa Watts,Poor,Offline,Paid,No,2019-06-10,Poor,Tier 3,1.22,6.9,12.6,Drop out
+87,1411,Mary Russell,Excellent,Offline,Paid,No,2019-06-12,Excellent,Tier 2,4.95,7.4,12.8,Graduated
+88,1412,Patricia Gomez,Excellent,Offline,Paid,No,2021-11-12,Excellent,Tier 1,3.25,5.7,5.8,Graduated
+89,1413,Andrew Serrano,Good,Offline,Paid,No,2021-10-03,Poor,Tier 3,1.32,7.2,14.0,Graduated
+90,1414,Jose Howard,Average,Hybrid,Unpaid,No,2019-09-23,Poor,Tier 1,3.92,11.0,6.2,Graduated
+91,1415,Michael Brown,Poor,Hybrid,Paid,No,2020-12-27,Excellent,Tier 3,2.27,14.0,7.4,Graduated
+92,1416,Sean Dominguez,Excellent,Hybrid,Paid,No,2020-12-03,Average,Tier 2,2.66,9.3,11.2,Graduated
+93,1417,James Koch,Average,Offline,Paid,No,2020-11-23,Average,Tier 1,3.13,11.2,7.8,Graduated
+94,1418,Nicole Powell,Good,Online,Unpaid,No,2019-07-22,Poor,Tier 3,3.67,14.7,13.4,Graduated
+95,1419,Drew Lee,Excellent,Hybrid,Paid,No,2019-08-24,Average,Tier 3,2.49,14.9,5.8,Graduated
+96,1420,Cindy Lee,Excellent,Offline,Paid,No,2022-03-05,Average,Tier 3,1.14,8.6,11.1,Graduated
+97,1421,Vanessa Rice,Poor,Online,Paid,No,2021-01-20,Average,Tier 1,1.81,10.8,5.8,Drop out
+98,1422,David Avery,Excellent,Offline,Paid,No,2020-03-27,Poor,Tier 2,4.96,8.6,12.2,Graduated
+99,1423,David Parrish,Good,Online,Paid,No,2019-08-20,Poor,Tier 2,4.26,12.5,13.1,Graduated
+100,1424,Tina Brown,Average,Offline,Paid,No,2022-01-07,Poor,Tier 1,2.86,9.9,13.5,Graduated
+101,1425,Alicia Peck,Average,Hybrid,Paid,No,2020-04-04,Poor,Tier 3,1.64,11.7,8.1,Graduated
+102,1426,Olivia Gonzalez,Good,Online,Paid,No,2019-06-19,Poor,Tier 1,2.03,7.3,5.5,Drop out
+103,1427,Shelly Santana,Good,Hybrid,Unpaid,No,2020-03-03,Average,Tier 1,4.03,11.5,9.2,Graduated
+104,1428,Samantha Clark,Excellent,Offline,Paid,No,2021-02-23,Average,Tier 1,4.5,6.3,13.9,Graduated
+105,1429,Tina Jones,Good,Online,Paid,No,2019-11-06,Excellent,Tier 2,4.11,8.4,8.9,Graduated
+106,1430,Danielle Rodriguez,Good,Hybrid,Paid,No,2021-07-28,Excellent,Tier 1,2.58,8.0,10.8,Graduated
+107,1431,Becky Heath,Poor,Offline,Paid,No,2020-09-19,Poor,Tier 1,2.49,6.8,13.1,Graduated
+108,1432,Christopher Grant,Good,Online,Paid,No,2019-07-20,Poor,Tier 3,1.04,6.9,10.2,Drop out
+109,1433,Holly Richardson,Good,Online,Paid,Yes,2020-01-10,Good,Tier 3,2.34,9.5,11.9,Graduated
+110,1434,Lisa Hughes,Excellent,Offline,Paid,No,2021-12-08,Poor,Tier 3,4.21,9.8,7.7,Graduated
+111,1435,Matthew Cantrell,Average,Hybrid,Paid,No,2019-11-02,Poor,Tier 2,4.0,12.9,7.6,Graduated
+112,1436,Laura Bowers,Poor,Hybrid,Paid,No,2021-03-03,Average,Tier 2,2.95,9.3,13.7,Graduated
+113,1437,David Walker,Poor,Hybrid,Paid,No,2022-01-18,Average,Tier 1,4.89,6.9,5.8,Graduated
+114,1438,Jennifer Hoover,Excellent,Offline,Paid,No,2021-11-23,Excellent,Tier 3,3.49,11.7,7.4,Graduated
+115,1439,Teresa Edwards,Excellent,Offline,Paid,No,2020-11-12,Poor,Tier 3,3.22,9.0,15.0,Graduated
+116,1440,Christina Bush,Poor,Online,Paid,No,2019-10-06,Poor,Tier 3,3.97,8.6,12.7,Graduated
+117,1441,Susan Smith,Poor,Online,Paid,Yes,2021-05-21,Poor,Tier 3,1.62,11.9,8.8,Drop out
+118,1442,Bonnie Taylor,Excellent,Online,Paid,Yes,2021-06-30,Poor,Tier 2,3.04,5.4,6.2,Drop out
+119,1443,Jennifer Carter,Excellent,Offline,Paid,No,2021-03-11,Excellent,Tier 2,1.47,5.9,9.0,Drop out
+120,1444,Luis Hoover,Good,Hybrid,Paid,No,2019-06-25,Average,Tier 2,4.6,14.7,7.1,Graduated
+121,1445,Cheryl Smith,Good,Online,Paid,No,2021-11-02,Poor,Tier 1,4.43,12.9,7.1,Graduated
+122,1446,Mary Oconnor,Excellent,Offline,Paid,No,2021-04-04,Poor,Tier 1,1.06,8.8,8.1,Drop out
+123,1447,Kent Santos,Poor,Online,Paid,Yes,2022-02-05,Poor,Tier 3,3.28,6.2,8.4,Graduated
+124,1448,Anthony Morgan,Average,Hybrid,Unpaid,No,2021-11-29,Average,Tier 3,3.7,5.8,10.0,Graduated
+125,1449,Ashley Wells,Poor,Hybrid,Unpaid,No,2019-09-26,Poor,Tier 3,2.06,14.7,13.6,Graduated
+126,1450,Sean Cox,Good,Offline,Paid,No,2021-12-28,Average,Tier 1,1.48,8.8,14.0,Graduated
+127,1451,Justin Pace,Good,Hybrid,Paid,No,2019-05-25,Average,Tier 2,2.91,8.0,10.2,Graduated
+128,1452,Isabella Wise,Good,Offline,Paid,No,2020-12-17,Poor,Tier 1,4.66,5.5,11.0,Graduated
+129,1453,Mark Baker,Poor,Hybrid,Paid,No,2020-12-13,Average,Tier 3,3.57,12.4,12.6,Graduated
+130,1454,Mrs. Ashley Lynch MD,Excellent,Offline,Paid,No,2020-11-03,Poor,Tier 3,1.78,10.0,6.2,Drop out
+131,1455,Sarah Lopez,Excellent,Hybrid,Paid,No,2019-11-16,Average,Tier 2,4.97,8.5,6.9,Graduated
+132,1456,Christine Howard,Excellent,Offline,Paid,No,2020-10-13,Average,Tier 2,3.25,8.4,10.2,Graduated
+133,1457,Daniel Walker,Poor,Hybrid,Paid,No,2019-11-11,Good,Tier 2,3.87,13.5,8.9,Graduated
+134,1458,Malik Rogers,Average,Offline,Paid,No,2021-09-19,Poor,Tier 2,2.47,10.8,10.4,Graduated
+135,1459,Daniel Ortiz,Good,Hybrid,Paid,No,2020-01-25,Poor,Tier 3,2.36,9.3,13.6,Graduated
+136,1460,Andrew Smith,Poor,Online,Unpaid,No,2021-11-11,Poor,Tier 2,2.27,11.8,9.1,Graduated
+137,1461,Nathan Jones,Good,Online,Paid,No,2019-09-03,Good,Tier 3,4.93,13.3,8.6,Graduated
+138,1462,Chloe Roberts MD,Good,Offline,Paid,No,2019-05-26,Average,Tier 2,2.67,9.2,11.3,Graduated
+139,1463,Derek Johnson,Excellent,Hybrid,Paid,No,2020-12-12,Excellent,Tier 2,4.84,5.3,14.6,Graduated
+140,1464,Teresa Thomas,Poor,Offline,Unpaid,No,2022-05-04,Average,Tier 3,4.17,12.2,5.4,Graduated
+141,1465,Michelle King,Excellent,Online,Paid,No,2020-02-08,Poor,Tier 2,4.4,14.7,10.1,Graduated
+142,1466,Christopher Melton,Average,Offline,Paid,Yes,2022-01-09,Poor,Tier 1,2.5,7.4,10.8,Drop out
+143,1467,Jennifer Johnson,Excellent,Hybrid,Unpaid,Yes,2021-09-13,Poor,Tier 3,3.06,14.8,9.6,Graduated
+144,1468,Audrey Brown,Poor,Offline,Paid,No,2020-07-09,Poor,Tier 1,3.22,7.1,6.4,Drop out
+145,1469,Laurie Walker,Excellent,Offline,Paid,No,2020-09-19,Poor,Tier 3,3.7,10.4,6.5,Graduated
+146,1470,Victoria Jackson,Good,Online,Paid,No,2022-01-20,Average,Tier 1,1.92,6.7,13.5,Drop out
+147,1471,Anna Spencer,Average,Hybrid,Paid,No,2019-11-04,Average,Tier 3,3.53,11.0,7.8,Graduated
+148,1472,Krystal Baker,Excellent,Online,Paid,No,2020-09-11,Average,Tier 3,2.49,9.0,5.3,Graduated
+149,1473,Misty Jackson,Excellent,Offline,Unpaid,No,2021-11-21,Average,Tier 3,4.19,8.6,9.9,Graduated
+150,1474,Lisa Flores,Good,Hybrid,Unpaid,No,2021-11-25,Average,Tier 3,1.73,5.6,11.4,Graduated
+151,1475,Todd Stuart,Average,Online,Paid,No,2021-04-03,Poor,Tier 3,3.39,14.1,9.2,Graduated
+152,1476,William Knight,Excellent,Hybrid,Unpaid,No,2021-12-12,Poor,Tier 2,2.17,12.9,11.9,Graduated
+153,1477,Jeffrey Adkins,Excellent,Offline,Paid,No,2020-01-25,Poor,Tier 2,2.33,12.5,8.3,Graduated
+154,1478,Ashley Johnson,Poor,Hybrid,Paid,No,2020-03-05,Excellent,Tier 2,1.02,9.5,13.1,Graduated
+155,1479,Brandi Gray,Good,Online,Paid,No,2022-03-14,Average,Tier 3,3.63,10.3,5.0,Graduated
+156,1480,Stephen Mitchell,Excellent,Online,Paid,No,2020-02-22,Poor,Tier 2,1.26,14.0,9.0,Graduated
+157,1481,Andrea Pierce,Excellent,Online,Paid,No,2021-07-12,Poor,Tier 3,4.15,10.6,9.4,Graduated
+158,1482,Daisy Marsh,Good,Offline,Paid,No,2022-01-20,Poor,Tier 1,1.98,13.3,7.0,Drop out
+159,1483,Morgan Watson,Excellent,Offline,Paid,No,2019-07-06,Poor,Tier 2,1.46,6.6,9.1,Drop out
+160,1484,Kevin Allen,Poor,Hybrid,Paid,No,2019-11-05,Poor,Tier 3,4.47,5.8,9.8,Graduated
+161,1485,Anita Odonnell,Poor,Offline,Paid,No,2019-08-20,Poor,Tier 1,2.79,13.1,7.1,Graduated
+162,1486,Emily Watson,Poor,Online,Paid,No,2022-05-09,Average,Tier 3,4.11,9.0,9.2,Graduated
+163,1487,Kevin Hamilton,Poor,Offline,Paid,No,2019-06-12,Average,Tier 1,1.39,11.0,10.8,Drop out
+164,1488,Arthur Walker,Poor,Hybrid,Paid,No,2019-09-15,Poor,Tier 1,3.16,5.4,8.7,Drop out
+165,1489,Michael Knox,Good,Hybrid,Paid,No,2019-12-17,Poor,Tier 2,4.84,12.3,9.3,Graduated
+166,1490,Tiffany Brown,Average,Online,Paid,No,2020-08-16,Poor,Tier 3,2.73,14.6,11.1,Graduated
+167,1491,Lori Stevens,Average,Online,Paid,No,2021-12-09,Average,Tier 1,3.96,8.6,14.5,Graduated
+168,1492,Teresa Jackson,Excellent,Offline,Unpaid,No,2021-11-16,Poor,Tier 3,3.02,10.9,9.3,Graduated
+169,1493,Cassandra Carr,Good,Hybrid,Paid,No,2020-10-24,Average,Tier 1,3.02,6.4,13.2,Graduated
+170,1494,Melissa Reynolds,Average,Hybrid,Paid,Yes,2019-08-03,Average,Tier 3,1.61,6.1,11.3,Drop out
+171,1495,Christine Newton,Good,Offline,Paid,No,2022-02-06,Average,Tier 3,3.52,13.0,8.2,Graduated
+172,1496,Monica Tucker,Good,Online,Paid,No,2021-08-11,Average,Tier 3,3.07,11.8,5.2,Graduated
+173,1497,Jasmine Wilson,Good,Offline,Paid,No,2020-11-04,Good,Tier 2,1.26,11.0,10.1,Graduated
+174,1498,Michaela Powers,Poor,Hybrid,Paid,No,2021-05-15,Excellent,Tier 1,3.74,13.8,14.0,Graduated
+175,1499,Aaron Burton,Excellent,Online,Unpaid,No,2019-09-24,Average,Tier 1,2.81,13.1,5.4,Graduated
+176,1500,Scott Roberson,Poor,Hybrid,Paid,No,2022-01-21,Average,Tier 3,1.73,10.7,7.0,Drop out
+177,1501,Jim Reed,Average,Online,Paid,No,2021-01-01,Poor,Tier 1,3.88,13.9,13.0,Graduated
+178,1502,Melissa Tanner,Good,Hybrid,Paid,No,2020-01-31,Average,Tier 1,2.99,8.2,14.5,Graduated
+179,1503,Donald Lester,Poor,Online,Unpaid,No,2022-04-01,Excellent,Tier 2,3.69,8.4,11.1,Graduated
+180,1504,Jeffrey Joseph,Good,Online,Paid,Yes,2021-12-02,Good,Tier 1,4.19,14.8,13.2,Graduated
+181,1505,Katie Montgomery,Poor,Offline,Paid,No,2019-06-22,Excellent,Tier 1,2.83,6.9,6.1,Drop out
+182,1506,Karen Guzman,Good,Online,Paid,No,2019-12-10,Poor,Tier 1,3.32,11.8,11.6,Graduated
+183,1507,Robert Stephens,Excellent,Offline,Paid,No,2022-02-09,Average,Tier 1,3.97,8.3,11.4,Graduated
+184,1508,Mr. Guy Kennedy,Good,Online,Paid,No,2022-01-19,Excellent,Tier 2,1.29,6.2,6.5,Drop out
+185,1509,Dana Cooke,Good,Hybrid,Paid,No,2019-12-18,Excellent,Tier 3,2.13,14.4,13.7,Graduated
+186,1510,Carla Henderson MD,Average,Hybrid,Paid,No,2019-11-09,Poor,Tier 2,2.09,13.1,11.8,Graduated
+187,1511,Brian Herrera,Poor,Offline,Paid,No,2022-02-23,Poor,Tier 1,4.69,10.7,12.5,Graduated
+188,1512,Kathryn Gibson,Average,Offline,Unpaid,No,2019-09-10,Average,Tier 2,3.63,10.9,13.3,Graduated
+189,1513,Bob Steele,Good,Offline,Unpaid,No,2020-03-16,Poor,Tier 3,1.73,14.0,5.8,Graduated
+190,1514,Nicholas Frank,Average,Online,Paid,No,2021-06-28,Average,Tier 3,4.7,6.6,14.4,Graduated
+191,1515,Meghan Jones,Poor,Online,Paid,No,2021-02-02,Poor,Tier 2,3.37,6.6,6.0,Drop out
+192,1516,David Higgins,Good,Offline,Unpaid,Yes,2020-03-27,Average,Tier 3,1.94,9.0,14.9,Graduated
+193,1517,David Carter,Excellent,Hybrid,Paid,No,2020-01-29,Good,Tier 1,2.09,10.4,9.4,Graduated
+194,1518,Jonathan Stanley,Average,Offline,Paid,No,2021-01-07,Poor,Tier 1,1.66,5.8,8.5,Drop out
+195,1519,Megan Chaney,Good,Hybrid,Paid,No,2020-12-15,Average,Tier 3,1.7,14.3,14.2,Graduated
+196,1520,Adrienne Oliver,Good,Offline,Paid,No,2020-01-10,Average,Tier 2,1.53,8.0,5.2,Drop out
+197,1521,Melissa Lee,Excellent,Hybrid,Unpaid,No,2019-10-08,Poor,Tier 1,3.61,14.6,10.0,Graduated
+198,1522,Alexander Key,Good,Offline,Paid,No,2019-11-22,Excellent,Tier 3,4.1,14.6,12.8,Graduated
+199,1523,Jacob Swanson,Excellent,Online,Unpaid,No,2021-05-12,Excellent,Tier 3,2.19,8.1,13.2,Graduated
+200,1524,Melissa Horne,Good,Offline,Paid,No,2020-03-15,Good,Tier 2,2.78,10.6,14.8,Graduated
+201,1525,Shannon Perry,Excellent,Online,Paid,No,2021-12-06,Poor,Tier 3,3.64,9.6,14.8,Graduated
+202,1526,Christopher Mitchell,Average,Hybrid,Paid,No,2020-06-07,Excellent,Tier 1,2.36,14.6,11.7,Graduated
+203,1527,Hannah Bowers,Excellent,Offline,Paid,No,2022-04-12,Poor,Tier 1,3.17,5.1,14.0,Graduated
+204,1528,Todd Huff,Excellent,Offline,Paid,No,2020-07-02,Excellent,Tier 2,3.04,11.5,10.1,Graduated
+205,1529,Anthony Olson,Average,Online,Paid,Yes,2021-11-06,Average,Tier 1,4.19,11.9,8.2,Graduated
+206,1530,Bradley Richmond,Good,Hybrid,Paid,No,2021-05-24,Poor,Tier 3,4.76,14.3,5.6,Graduated
+207,1531,Margaret Schneider,Average,Offline,Paid,Yes,2020-06-18,Good,Tier 1,2.73,6.9,6.3,Drop out
+208,1532,Chris Mcdonald,Good,Offline,Paid,No,2019-09-01,Average,Tier 2,2.73,14.0,10.8,Graduated
+209,1533,Robert Brown,Good,Hybrid,Paid,No,2022-04-22,Average,Tier 1,2.46,8.2,8.8,Graduated
+210,1534,Chad Bennett,Excellent,Online,Paid,No,2019-08-02,Good,Tier 3,1.22,9.5,11.6,Graduated
+211,1535,Elizabeth Bailey,Excellent,Offline,Paid,No,2022-03-02,Poor,Tier 2,2.35,6.6,10.7,Graduated
+212,1536,Derrick Walters,Excellent,Offline,Paid,No,2021-04-03,Excellent,Tier 1,2.82,12.6,6.2,Graduated
+213,1537,Kenneth Walker,Excellent,Online,Paid,No,2019-12-12,Poor,Tier 3,4.76,12.8,10.1,Graduated
+214,1538,Mike Thomas,Excellent,Hybrid,Paid,No,2020-07-28,Average,Tier 1,2.56,6.5,11.5,Graduated
+215,1539,Brittany Underwood,Poor,Online,Unpaid,No,2019-07-12,Excellent,Tier 1,3.58,13.0,12.8,Graduated
+216,1540,Jonathan Bell,Excellent,Hybrid,Paid,No,2021-02-16,Average,Tier 1,2.76,12.8,8.0,Graduated
+217,1541,Lindsey Jones,Poor,Hybrid,Paid,No,2022-05-01,Poor,Tier 2,2.96,5.7,14.2,Graduated
+218,1542,Oscar Hampton,Poor,Online,Paid,No,2020-06-14,Average,Tier 1,2.03,7.2,12.7,Drop out
+219,1543,Manuel Jensen,Average,Hybrid,Paid,No,2021-12-13,Good,Tier 3,3.9,11.0,5.5,Graduated
+220,1544,Brian Jones,Poor,Online,Paid,No,2020-09-05,Average,Tier 1,2.22,7.3,12.4,Drop out
+221,1545,Hunter Mitchell,Average,Hybrid,Paid,No,2021-05-22,Excellent,Tier 3,1.91,9.5,11.9,Graduated
+222,1546,Greg Newton,Average,Online,Paid,No,2022-05-07,Average,Tier 3,1.36,8.8,7.0,Drop out
+223,1547,Ashley Dean,Good,Hybrid,Paid,No,2020-02-01,Average,Tier 2,4.88,5.4,9.0,Graduated
+224,1548,Brittany Fox,Excellent,Online,Paid,No,2020-04-05,Average,Tier 2,1.81,14.4,11.8,Graduated
+225,1549,Emily Hamilton,Average,Online,Unpaid,No,2021-12-04,Poor,Tier 2,1.09,8.1,7.7,Drop out
+226,1550,David Walsh,Average,Offline,Paid,No,2020-03-22,Poor,Tier 1,4.74,7.5,8.4,Graduated
+227,1551,Jason Burns,Good,Online,Paid,No,2019-05-18,Average,Tier 3,3.27,5.2,13.3,Graduated
+228,1552,Michelle Schmitt,Good,Hybrid,Paid,No,2021-07-14,Poor,Tier 1,4.67,7.7,6.8,Graduated
+229,1553,Mark Davis,Excellent,Hybrid,Paid,No,2019-07-24,Excellent,Tier 1,2.64,12.9,14.1,Graduated
+230,1554,Lisa Jordan,Average,Hybrid,Paid,No,2021-12-21,Average,Tier 2,2.58,10.1,8.0,Graduated
+231,1555,John Cameron,Good,Hybrid,Paid,No,2019-07-28,Average,Tier 3,1.76,12.2,5.6,Graduated
+232,1556,Lori Jones,Excellent,Online,Paid,No,2020-07-23,Average,Tier 1,4.59,6.2,5.5,Graduated
+233,1557,Anthony Scott,Good,Online,Paid,No,2021-02-25,Average,Tier 2,1.22,8.6,13.3,Drop out
+234,1558,Jacqueline Combs,Poor,Offline,Paid,No,2019-12-08,Poor,Tier 3,4.88,13.7,12.7,Graduated
+235,1559,John Shelton,Excellent,Hybrid,Paid,No,2021-10-10,Excellent,Tier 2,3.01,10.9,5.3,Graduated
+236,1560,Tom Ritter,Excellent,Hybrid,Paid,Yes,2019-10-04,Excellent,Tier 1,3.46,14.5,13.3,Graduated
+237,1561,Ryan Rodriguez,Excellent,Online,Paid,No,2019-06-14,Excellent,Tier 3,1.8,5.5,11.1,Graduated
+238,1562,Dr. Cassandra Ramos,Average,Online,Paid,No,2019-07-23,Poor,Tier 3,2.38,5.1,6.9,Drop out
+239,1563,Veronica Chavez,Average,Offline,Unpaid,No,2020-11-26,Excellent,Tier 3,4.57,11.9,12.8,Graduated
+240,1564,Leslie Joseph,Poor,Online,Paid,No,2022-01-24,Good,Tier 2,1.03,5.4,8.2,Drop out
+241,1565,Rebecca Mcintosh,Poor,Online,Paid,No,2019-06-30,Poor,Tier 1,2.34,14.8,6.5,Drop out
+242,1566,Jimmy Kennedy,Excellent,Offline,Paid,No,2020-09-26,Average,Tier 1,2.02,9.1,5.8,Drop out
+243,1567,Jennifer Frazier,Average,Online,Paid,No,2020-01-05,Poor,Tier 2,1.15,12.9,6.9,Drop out
+244,1568,Andrew Lewis,Average,Offline,Paid,No,2022-02-11,Excellent,Tier 1,4.45,6.0,8.9,Graduated
+245,1569,Beth Lee,Excellent,Offline,Paid,No,2020-12-25,Poor,Tier 2,1.87,9.0,5.7,Drop out
+246,1570,Jason Roy,Poor,Hybrid,Paid,No,2020-08-23,Poor,Tier 3,3.35,9.1,11.6,Graduated
+247,1571,Suzanne Delgado,Poor,Hybrid,Paid,No,2020-08-22,Poor,Tier 1,1.33,9.2,14.3,Drop out
+248,1572,Justin Cole,Poor,Online,Paid,No,2021-08-09,Average,Tier 3,2.53,6.9,11.0,Graduated
+249,1573,Gerald Jones,Average,Online,Paid,No,2019-07-30,Poor,Tier 3,1.6,6.1,14.6,Drop out
+250,1574,Tyler Mckee,Excellent,Online,Paid,No,2020-04-23,Average,Tier 2,2.03,7.5,7.6,Drop out
+251,1575,Sandra Donovan,Excellent,Hybrid,Paid,No,2021-04-20,Average,Tier 1,4.06,13.1,9.8,Graduated
+252,1576,Robert Sanchez,Poor,Hybrid,Paid,No,2020-10-05,Poor,Tier 3,2.86,9.7,9.9,Graduated
+253,1577,Amy Fisher,Average,Hybrid,Paid,No,2022-03-05,Average,Tier 2,2.4,11.5,8.5,Graduated
+254,1578,Edward Russell,Poor,Hybrid,Paid,No,2021-02-09,Poor,Tier 3,2.32,8.8,11.2,Graduated
+255,1579,Matthew Hall DDS,Average,Hybrid,Unpaid,No,2019-06-20,Poor,Tier 3,3.67,10.7,12.6,Graduated
+256,1580,Zachary Crane,Poor,Online,Paid,No,2020-03-15,Excellent,Tier 1,4.88,8.8,13.4,Graduated
+257,1581,Jamie Padilla,Good,Online,Paid,No,2022-04-09,Excellent,Tier 2,2.71,7.9,6.4,Graduated
+258,1582,Lisa Snow,Average,Hybrid,Paid,No,2021-05-09,Average,Tier 1,3.15,5.6,7.2,Graduated
+259,1583,Shelly Torres,Good,Hybrid,Paid,No,2020-09-12,Average,Tier 2,2.46,12.5,7.0,Graduated
+260,1584,Amy Collins,Excellent,Offline,Paid,No,2020-04-17,Excellent,Tier 1,4.47,12.5,5.5,Graduated
+261,1585,Jeanne Edwards,Excellent,Offline,Unpaid,No,2019-10-01,Poor,Tier 3,1.76,7.2,9.1,Graduated
+262,1586,Levi Weaver,Poor,Online,Unpaid,Yes,2021-12-13,Poor,Tier 1,4.93,13.1,8.6,Graduated
+263,1587,Tina Gregory,Poor,Offline,Paid,No,2019-11-02,Poor,Tier 1,1.69,10.5,9.8,Drop out
+264,1588,Roberto Smith,Good,Hybrid,Paid,No,2020-01-09,Excellent,Tier 2,3.76,13.1,9.8,Graduated
+265,1589,Nicole Patterson,Average,Offline,Paid,No,2020-08-31,Excellent,Tier 1,2.19,8.9,14.8,Graduated
+266,1590,Adam House,Good,Offline,Paid,No,2021-05-04,Poor,Tier 2,3.65,6.3,8.2,Graduated
+267,1591,Kenneth Shelton,Excellent,Hybrid,Paid,No,2020-07-06,Excellent,Tier 3,1.75,12.5,11.3,Graduated
+268,1592,Sarah Adkins,Excellent,Online,Paid,No,2019-08-25,Poor,Tier 3,3.76,14.3,6.3,Graduated
+269,1593,Isaiah Walker,Good,Hybrid,Paid,No,2019-12-12,Poor,Tier 2,2.43,8.1,12.3,Graduated
+270,1594,Jeremy Sullivan,Excellent,Offline,Paid,No,2020-05-07,Poor,Tier 1,2.92,7.6,5.5,Drop out
+271,1595,Brenda Wade,Average,Hybrid,Unpaid,No,2021-02-21,Good,Tier 1,2.82,8.5,8.2,Graduated
+272,1596,Robert Gutierrez,Poor,Offline,Paid,Yes,2021-08-10,Average,Tier 1,4.46,8.6,12.5,Graduated
+273,1597,Cathy Conway,Poor,Online,Unpaid,No,2020-11-22,Excellent,Tier 2,1.79,6.1,5.0,Drop out
+274,1598,Shane Hall,Poor,Offline,Paid,No,2020-04-16,Average,Tier 1,2.87,8.2,12.8,Graduated
+275,1599,Joseph Ortiz,Average,Online,Paid,No,2019-08-29,Average,Tier 2,3.58,12.2,5.1,Graduated
+276,1600,Micheal Cox,Poor,Offline,Paid,No,2020-10-11,Good,Tier 3,4.52,8.5,11.2,Graduated
+277,1601,Danielle Hamilton,Excellent,Hybrid,Paid,No,2020-10-31,Poor,Tier 1,3.86,12.0,6.8,Graduated
+278,1602,Geoffrey Hernandez,Excellent,Offline,Paid,No,2019-11-19,Excellent,Tier 2,1.55,7.0,6.2,Drop out
+279,1603,Barbara Moore,Poor,Offline,Paid,No,2019-12-10,Average,Tier 2,1.8,11.2,7.8,Drop out
+280,1604,Pamela Becker,Average,Offline,Paid,No,2021-03-23,Poor,Tier 1,2.33,6.6,6.5,Drop out
+281,1605,Lindsey Bowman,Good,Offline,Paid,No,2021-09-14,Poor,Tier 2,2.04,11.4,11.9,Graduated
+282,1606,John Waters,Average,Offline,Paid,No,2020-03-04,Average,Tier 1,1.53,12.1,12.0,Graduated
+283,1607,Jennifer Williams,Average,Offline,Paid,No,2022-04-04,Poor,Tier 3,2.52,10.3,14.7,Graduated
+284,1608,Beth Martin,Poor,Hybrid,Paid,No,2022-03-12,Average,Tier 3,4.51,8.6,5.6,Graduated
+285,1609,Claire Brock,Poor,Hybrid,Paid,Yes,2019-07-08,Average,Tier 1,4.6,13.0,9.5,Graduated
+286,1610,Eric Hawkins,Poor,Offline,Paid,No,2020-02-28,Excellent,Tier 3,2.95,12.6,14.5,Graduated
+287,1611,Erin Chung DDS,Excellent,Offline,Paid,No,2022-04-25,Average,Tier 3,2.79,6.2,7.9,Graduated
+288,1612,Jim Jones,Poor,Offline,Paid,No,2021-12-16,Poor,Tier 2,2.78,8.3,6.2,Drop out
+289,1613,Eric Davidson,Average,Hybrid,Paid,Yes,2020-02-11,Poor,Tier 2,4.11,8.2,12.8,Graduated
+290,1614,Jennifer Gibson,Average,Online,Paid,No,2022-01-11,Average,Tier 3,3.7,13.3,14.9,Graduated
+291,1615,Emily Griffin,Good,Offline,Paid,No,2019-09-26,Poor,Tier 3,2.71,10.8,5.2,Graduated
+292,1616,Hailey Henderson,Good,Hybrid,Paid,No,2021-07-23,Poor,Tier 3,2.61,10.5,13.5,Graduated
+293,1617,Scott Mcintosh,Poor,Hybrid,Paid,No,2020-07-13,Poor,Tier 1,3.98,6.2,11.4,Graduated
+294,1618,Carl Reed,Good,Hybrid,Paid,No,2019-10-10,Good,Tier 3,3.57,14.6,8.1,Graduated
+295,1619,Julie Fry,Excellent,Hybrid,Paid,No,2020-10-29,Poor,Tier 1,3.55,14.4,11.2,Graduated
+296,1620,Eric Cruz,Excellent,Offline,Paid,Yes,2019-12-15,Poor,Tier 1,2.69,9.0,9.2,Graduated
+297,1621,Cassandra White,Average,Online,Paid,No,2021-08-18,Poor,Tier 1,3.77,9.2,13.5,Graduated
+298,1622,Corey Copeland,Average,Offline,Paid,No,2021-04-27,Excellent,Tier 3,4.23,5.7,9.7,Graduated
+299,1623,Monica Adams,Poor,Hybrid,Paid,No,2021-10-06,Average,Tier 1,1.18,15.0,6.3,Drop out
+300,1624,Paul Rodriguez,Good,Offline,Paid,Yes,2022-03-19,Average,Tier 1,4.94,7.2,8.2,Graduated
+301,1625,Tom Robertson,Excellent,Online,Paid,No,2022-02-27,Average,Tier 2,2.73,8.9,13.2,Graduated
+302,1626,Christina Wright,Excellent,Offline,Paid,No,2019-09-09,Poor,Tier 1,4.35,6.1,10.1,Graduated
+303,1627,Julia Blake,Excellent,Online,Paid,No,2021-02-17,Excellent,Tier 2,2.12,7.5,10.5,Graduated
+304,1628,Nathaniel Scott,Excellent,Offline,Paid,Yes,2020-06-21,Good,Tier 1,4.12,13.3,8.5,Graduated
+305,1629,Robert Moore,Good,Offline,Paid,No,2022-01-10,Excellent,Tier 2,1.67,7.1,10.7,Graduated
+306,1630,James Holmes,Good,Hybrid,Unpaid,No,2021-11-02,Average,Tier 1,2.31,14.4,9.4,Graduated
+307,1631,Michael Hill,Good,Hybrid,Unpaid,No,2022-03-03,Poor,Tier 3,1.28,13.6,11.7,Graduated
+308,1632,Danny Miller,Excellent,Hybrid,Paid,Yes,2021-03-16,Average,Tier 1,1.16,6.6,10.4,Drop out
+309,1633,Erik Taylor,Poor,Online,Paid,No,2022-04-25,Average,Tier 3,1.25,9.3,6.1,Drop out
+310,1634,Michael Perez,Excellent,Offline,Paid,No,2019-07-10,Poor,Tier 3,1.16,10.5,9.5,Drop out
+311,1635,Jordan Harris,Poor,Offline,Paid,Yes,2020-03-19,Average,Tier 2,4.58,11.6,12.2,Graduated
+312,1636,Jamie Jones,Excellent,Online,Unpaid,No,2021-06-28,Poor,Tier 1,4.23,9.5,10.4,Graduated
+313,1637,Jean Ferguson,Poor,Online,Paid,No,2022-03-01,Excellent,Tier 3,3.64,10.6,8.4,Graduated
+314,1638,Randy Hodges,Good,Online,Unpaid,No,2022-01-03,Excellent,Tier 2,1.08,10.8,8.4,Drop out
+315,1639,Chad Miller,Poor,Offline,Paid,No,2021-10-03,Good,Tier 3,2.73,9.5,14.7,Graduated
+316,1640,Mark Campbell,Average,Offline,Paid,No,2021-03-29,Average,Tier 3,4.23,14.0,9.7,Graduated
+317,1641,Whitney Sanders,Excellent,Hybrid,Unpaid,No,2022-01-30,Excellent,Tier 3,1.82,12.5,11.8,Graduated
+318,1642,Alejandra Bell,Excellent,Offline,Paid,No,2022-03-12,Excellent,Tier 3,4.73,11.3,9.5,Graduated
+319,1643,Mitchell Bates,Good,Hybrid,Paid,No,2022-01-18,Poor,Tier 1,2.16,9.9,5.1,Drop out
+320,1644,Caitlin Garner,Poor,Hybrid,Paid,No,2021-10-24,Average,Tier 3,1.39,9.2,7.8,Drop out
