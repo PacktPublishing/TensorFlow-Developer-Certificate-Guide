@@ -2,7 +2,7 @@
 
 <a href="https://www.packtpub.com/product/tensorflow-developer-certificate-guide/9781803240138"><img src="https://content.packt.com/B18118/cover_image_small.jpg" alt="TensorFlow Developer Certificate Guide" height="256px" align="right"></a>
 
-This is the code repository for [TensorFlow Developer Certificate](https://www.packtpub.com/product/tensorflow-developer-certificate-guide/9781803240138), published by Packt.
+This is the code repository for [TensorFlow Developer Certificate Guide](https://www.packtpub.com/product/tensorflow-developer-certificate-guide/9781803240138), published by Packt.
 
 **Efficiently tackle deep learning and ML problems to ace the Developer Certificate exam**
 
